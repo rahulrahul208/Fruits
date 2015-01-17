@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Animal</string>
+		<key>id</key>
+		<string>animal catogory id</string>
+		<key>imageID</key>
+		<string>Animal placeholder image</string>
+		<key>languages</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>English( Language Name)</string>
+				<key>text</key>
+				<string>Animal word&apos;s english text</string>
+				<key>sound</key>
+				<string>animal word&apos;s sound in english</string>
+				<key>soundID</key>
+				<string>animal word&apos;s soundID in english</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Punjabi</string>
+				<key>text</key>
+				<string>Animal word&apos;s punjabi text</string>
+				<key>sound</key>
+				<string>animal word&apos;s sound in punjabi</string>
+				<key>soundID</key>
+				<string>animal word&apos;s soundID in punjabi</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Tamil</string>
+				<key>text</key>
+				<string>Animal word&apos;s tamil text</string>
+				<key>sound</key>
+				<string>animal word&apos;s sound in tamil</string>
+				<key>soundID</key>
+				<string>animal word&apos;s soundID in tamil</string>
+			</dict>
+		</array>
+		<key>childs</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>Dog</string>
+				<key>id</key>
+				<string>dog&apos;s id</string>
+				<key>imageID</key>
+				<string>dos&apos;s image id</string>
+				<key>languages</key>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>English</string>
+						<key>text</key>
+						<string>Dog word&apos;s english text</string>
+						<key>sound</key>
+						<string>Dog word&apos;s sound in english</string>
+						<key>soundID</key>
+						<string>Dog word&apos;s soundID in english</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Punjabi</string>
+						<key>text</key>
+						<string>Dog word&apos;s punjabi text</string>
+						<key>sound</key>
+						<string>Dog word&apos;s sound in punjabi</string>
+						<key>soundID</key>
+						<string>Dog word&apos;s soundID in punjabi</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Tamil</string>
+						<key>text</key>
+						<string>Dog word&apos;s tamil text</string>
+						<key>sound</key>
+						<string>Dog word&apos;s sound in tamil</string>
+						<key>soundID</key>
+						<string>Dog word&apos;s soundID in tamil</string>
+					</dict>
+				</array>
+				<key>childs</key>
+				<array/>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Cat</string>
+				<key>id</key>
+				<string>cat&apos;s id</string>
+				<key>imageID</key>
+				<string>cat image ID</string>
+				<key>languages</key>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>English</string>
+						<key>text</key>
+						<string>Cat word&apos;s english text</string>
+						<key>sound</key>
+						<string>Cat word&apos;s sound in english</string>
+						<key>soundID</key>
+						<string>Cat word&apos;s soundID in english</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Punjabi</string>
+						<key>text</key>
+						<string>Cat word&apos;s punjabi text</string>
+						<key>sound</key>
+						<string>Cat word&apos;s sound in punjabi</string>
+						<key>soundID</key>
+						<string>Cat word&apos;s soundID in punjabi</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Tamil</string>
+						<key>text</key>
+						<string>Cat word&apos;s tamil text</string>
+						<key>sound</key>
+						<string>Cat word&apos;s sound in tamil</string>
+						<key>soundID</key>
+						<string>Cat word&apos;s soundID in tamil</string>
+					</dict>
+				</array>
+				<key>childs</key>
+				<array/>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Beer</string>
+				<key>id</key>
+				<string>Beer&apos;s id</string>
+				<key>imageID</key>
+				<string>Beer image ID</string>
+				<key>languages</key>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>English</string>
+						<key>text</key>
+						<string>Beer word&apos;s english text</string>
+						<key>sound</key>
+						<string>Beer word&apos;s sound in english</string>
+						<key>soundID</key>
+						<string>Beer word&apos;s soundID in english</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Punjabi</string>
+						<key>text</key>
+						<string>Beer word&apos;s punjabi text</string>
+						<key>sound</key>
+						<string>Beer word&apos;s sound in punjabi</string>
+						<key>soundID</key>
+						<string>Beer word&apos;s soundID in punjabi</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Tamil</string>
+						<key>text</key>
+						<string>Beer word&apos;s tamil text</string>
+						<key>sound</key>
+						<string>Beer word&apos;s sound in tamil</string>
+						<key>soundID</key>
+						<string>Beer word&apos;s soundID in tamil</string>
+					</dict>
+				</array>
+				<key>childs</key>
+				<array/>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Vegitables &amp; Fruits</string>
+		<key>id</key>
+		<string>Vegitables &amp; Fruits catogory id</string>
+		<key>image</key>
+		<string>Vegitables &amp; Fruits placeholder image</string>
+		<key>languages</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>English( Language Name)</string>
+				<key>text</key>
+				<string>Vegitables &amp; Fruits word&apos;s english text</string>
+				<key>sound</key>
+				<string>Vegitables &amp; Fruits word&apos;s sound in english</string>
+				<key>soundID</key>
+				<string>Vegitables &amp; Fruits word&apos;s soundID in english</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Punjabi</string>
+				<key>text</key>
+				<string>Vegitables &amp; Fruits word&apos;s punjabi text</string>
+				<key>sound</key>
+				<string>Vegitables &amp; Fruits word&apos;s sound in punjabi</string>
+				<key>soundID</key>
+				<string>Vegitables &amp; Fruits word&apos;s soundID in punjabi</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Tamil</string>
+				<key>text</key>
+				<string>Vegitables &amp; Fruits word&apos;s tamil text</string>
+				<key>sound</key>
+				<string>Vegitables &amp; Fruits word&apos;s sound in tamil</string>
+				<key>soundID</key>
+				<string>Vegitables &amp; Fruits word&apos;s soundID in tamil</string>
+			</dict>
+		</array>
+		<key>childs</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>Fruits</string>
+				<key>id</key>
+				<string>Fruits&apos;s id</string>
+				<key>imageID</key>
+				<string>Fruits&apos;s placeholder image id</string>
+				<key>languages</key>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>English</string>
+						<key>text</key>
+						<string>Fruits word&apos;s english text</string>
+						<key>sound</key>
+						<string>Fruits word&apos;s sound in english</string>
+						<key>soundID</key>
+						<string>Fruits word&apos;s soundID in english</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Punjabi</string>
+						<key>text</key>
+						<string>Fruits word&apos;s punjabi text</string>
+						<key>sound</key>
+						<string>Fruits word&apos;s sound in punjabi</string>
+						<key>soundID</key>
+						<string>Fruits word&apos;s soundID in punjabi</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Tamil</string>
+						<key>text</key>
+						<string>Fruits word&apos;s tamil text</string>
+						<key>sound</key>
+						<string>Fruits word&apos;s sound in tamil</string>
+						<key>soundID</key>
+						<string>Fruits word&apos;s soundID in tamil</string>
+					</dict>
+				</array>
+				<key>childs</key>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>Apple</string>
+						<key>id</key>
+						<string>Apple catogory id</string>
+						<key>imageID</key>
+						<string>Apple image</string>
+						<key>languages</key>
+						<array>
+							<dict>
+								<key>name</key>
+								<string>English( Language Name)</string>
+								<key>text</key>
+								<string>Apple word&apos;s english text</string>
+								<key>sound</key>
+								<string>Apple word&apos;s sound in english</string>
+								<key>soundID</key>
+								<string>Apple word&apos;s soundID in english</string>
+							</dict>
+							<dict>
+								<key>name</key>
+								<string>Punjabi</string>
+								<key>text</key>
+								<string>Apple word&apos;s punjabi text</string>
+								<key>sound</key>
+								<string>Apple word&apos;s sound in punjabi</string>
+								<key>soundID</key>
+								<string>Apple word&apos;s soundID in punjabi</string>
+							</dict>
+							<dict>
+								<key>name</key>
+								<string>Tamil</string>
+								<key>text</key>
+								<string>Apple word&apos;s tamil text</string>
+								<key>sound</key>
+								<string>Apple word&apos;s sound in tamil</string>
+								<key>soundID</key>
+								<string>Apple word&apos;s soundID in tamil</string>
+							</dict>
+						</array>
+						<key>childs</key>
+						<array/>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Orange</string>
+						<key>id</key>
+						<string>Orange catogory id</string>
+						<key>imageID</key>
+						<string>Orange image</string>
+						<key>languages</key>
+						<array>
+							<dict>
+								<key>name</key>
+								<string>English( Language Name)</string>
+								<key>text</key>
+								<string>Orange word&apos;s english text</string>
+								<key>sound</key>
+								<string>Orange word&apos;s sound in english</string>
+								<key>soundID</key>
+								<string>Orange word&apos;s soundID in english</string>
+							</dict>
+							<dict>
+								<key>name</key>
+								<string>Punjabi</string>
+								<key>text</key>
+								<string>Orange word&apos;s punjabi text</string>
+								<key>sound</key>
+								<string>Orange word&apos;s sound in punjabi</string>
+								<key>soundID</key>
+								<string>Orange word&apos;s soundID in punjabi</string>
+							</dict>
+							<dict>
+								<key>name</key>
+								<string>Tamil</string>
+								<key>text</key>
+								<string>Orange word&apos;s tamil text</string>
+								<key>sound</key>
+								<string>Orange word&apos;s sound in tamil</string>
+								<key>soundID</key>
+								<string>Orange word&apos;s soundID in tamil</string>
+							</dict>
+						</array>
+						<key>childs</key>
+						<array/>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Banana</string>
+						<key>id</key>
+						<string>Banana catogory id</string>
+						<key>imageID</key>
+						<string>Banana image</string>
+						<key>languages</key>
+						<array>
+							<dict>
+								<key>name</key>
+								<string>English( Language Name)</string>
+								<key>text</key>
+								<string>Banana word&apos;s english text</string>
+								<key>sound</key>
+								<string>Banana word&apos;s sound in english</string>
+								<key>soundID</key>
+								<string>Banana word&apos;s soundID in english</string>
+							</dict>
+							<dict>
+								<key>name</key>
+								<string>Punjabi</string>
+								<key>text</key>
+								<string>Banana word&apos;s punjabi text</string>
+								<key>sound</key>
+								<string>Banana word&apos;s sound in punjabi</string>
+								<key>soundID</key>
+								<string>Banana word&apos;s soundID in punjabi</string>
+							</dict>
+							<dict>
+								<key>name</key>
+								<string>Tamil</string>
+								<key>text</key>
+								<string>Banana word&apos;s tamil text</string>
+								<key>sound</key>
+								<string>Banana word&apos;s sound in tamil</string>
+								<key>soundID</key>
+								<string>Banana word&apos;s soundID in tamil</string>
+							</dict>
+						</array>
+						<key>childs</key>
+						<array/>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Papaya</string>
+						<key>id</key>
+						<string>Papaya catogory id</string>
+						<key>imageID</key>
+						<string>Papaya image</string>
+						<key>languages</key>
+						<array>
+							<dict>
+								<key>name</key>
+								<string>English( Language Name)</string>
+								<key>text</key>
+								<string>Papaya word&apos;s english text</string>
+								<key>sound</key>
+								<string>Papaya word&apos;s sound in english</string>
+								<key>soundID</key>
+								<string>Papaya word&apos;s soundID in english</string>
+							</dict>
+							<dict>
+								<key>name</key>
+								<string>Punjabi</string>
+								<key>text</key>
+								<string>Papaya word&apos;s punjabi text</string>
+								<key>sound</key>
+								<string>Papaya word&apos;s sound in punjabi</string>
+								<key>soundID</key>
+								<string>Papaya word&apos;s soundID in punjabi</string>
+							</dict>
+							<dict>
+								<key>name</key>
+								<string>Tamil</string>
+								<key>text</key>
+								<string>Papaya word&apos;s tamil text</string>
+								<key>sound</key>
+								<string>Papaya word&apos;s sound in tamil</string>
+								<key>soundID</key>
+								<string>Papaya word&apos;s soundID in tamil</string>
+							</dict>
+						</array>
+						<key>childs</key>
+						<array/>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Vegiatbles</string>
+				<key>id</key>
+				<string>Vegiatbles&apos;s id</string>
+				<key>imageID</key>
+				<string>Vegiatbles image ID</string>
+				<key>image</key>
+				<string>Vegiatbles place holder image</string>
+				<key>languages</key>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>English</string>
+						<key>text</key>
+						<string>Vegiatbles word&apos;s english text</string>
+						<key>sound</key>
+						<string>Vegiatbles word&apos;s sound in english</string>
+						<key>soundID</key>
+						<string>Vegiatbles word&apos;s soundID in english</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Punjabi</string>
+						<key>text</key>
+						<string>Vegiatbles word&apos;s punjabi text</string>
+						<key>sound</key>
+						<string>Vegiatbles word&apos;s sound in punjabi</string>
+						<key>soundID</key>
+						<string>Vegiatbles word&apos;s soundID in punjabi</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Tamil</string>
+						<key>text</key>
+						<string>Vegiatbles word&apos;s tamil text</string>
+						<key>sound</key>
+						<string>Vegiatbles word&apos;s sound in tamil</string>
+						<key>soundID</key>
+						<string>Vegiatbles word&apos;s soundID in tamil</string>
+					</dict>
+				</array>
+				<key>childs</key>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>Tommato</string>
+						<key>id</key>
+						<string>Tommato catogory id</string>
+						<key>imageID</key>
+						<string>Tommato image</string>
+						<key>languages</key>
+						<array>
+							<dict>
+								<key>name</key>
+								<string>English( Language Name)</string>
+								<key>text</key>
+								<string>Tommato word&apos;s english text</string>
+								<key>sound</key>
+								<string>Tommato word&apos;s sound in english</string>
+								<key>soundID</key>
+								<string>Tommato word&apos;s soundID in english</string>
+							</dict>
+							<dict>
+								<key>name</key>
+								<string>Punjabi</string>
+								<key>text</key>
+								<string>Tommato word&apos;s punjabi text</string>
+								<key>sound</key>
+								<string>Tommato word&apos;s sound in punjabi</string>
+								<key>soundID</key>
+								<string>Tommato word&apos;s soundID in punjabi</string>
+							</dict>
+							<dict>
+								<key>name</key>
+								<string>Tamil</string>
+								<key>text</key>
+								<string>Tommato word&apos;s tamil text</string>
+								<key>sound</key>
+								<string>Tommato word&apos;s sound in tamil</string>
+								<key>soundID</key>
+								<string>Tommato word&apos;s soundID in tamil</string>
+							</dict>
+						</array>
+						<key>childs</key>
+						<array/>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Potato</string>
+						<key>id</key>
+						<string>Potato catogory id</string>
+						<key>imageID</key>
+						<string>Potato image</string>
+						<key>languages</key>
+						<array>
+							<dict>
+								<key>name</key>
+								<string>English( Language Name)</string>
+								<key>text</key>
+								<string>Potato word&apos;s english text</string>
+								<key>sound</key>
+								<string>Potato word&apos;s sound in english</string>
+								<key>soundID</key>
+								<string>Potato word&apos;s soundID in english</string>
+							</dict>
+							<dict>
+								<key>name</key>
+								<string>Punjabi</string>
+								<key>text</key>
+								<string>Potato word&apos;s punjabi text</string>
+								<key>sound</key>
+								<string>Potato word&apos;s sound in punjabi</string>
+								<key>soundID</key>
+								<string>Potato word&apos;s soundID in punjabi</string>
+							</dict>
+							<dict>
+								<key>name</key>
+								<string>Tamil</string>
+								<key>text</key>
+								<string>Potato word&apos;s tamil text</string>
+								<key>sound</key>
+								<string>Potato word&apos;s sound in tamil</string>
+								<key>soundID</key>
+								<string>Potato word&apos;s soundID in tamil</string>
+							</dict>
+						</array>
+						<key>childs</key>
+						<array/>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Cabagge</string>
+						<key>id</key>
+						<string>Cabagge catogory id</string>
+						<key>imageID</key>
+						<string>Cabagge image</string>
+						<key>languages</key>
+						<array>
+							<dict>
+								<key>name</key>
+								<string>English( Language Name)</string>
+								<key>text</key>
+								<string>Cabagge word&apos;s english text</string>
+								<key>sound</key>
+								<string>Cabagge word&apos;s sound in english</string>
+								<key>soundID</key>
+								<string>Cabagge word&apos;s soundID in english</string>
+							</dict>
+							<dict>
+								<key>name</key>
+								<string>Punjabi</string>
+								<key>text</key>
+								<string>Cabagge word&apos;s punjabi text</string>
+								<key>sound</key>
+								<string>Cabagge word&apos;s sound in punjabi</string>
+								<key>soundID</key>
+								<string>Cabagge word&apos;s soundID in punjabi</string>
+							</dict>
+							<dict>
+								<key>name</key>
+								<string>Tamil</string>
+								<key>text</key>
+								<string>Cabagge word&apos;s tamil text</string>
+								<key>sound</key>
+								<string>Cabagge word&apos;s sound in tamil</string>
+								<key>soundID</key>
+								<string>Cabagge word&apos;s soundID in tamil</string>
+							</dict>
+						</array>
+						<key>childs</key>
+						<array/>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Bringal</string>
+						<key>id</key>
+						<string>Bringal catogory id</string>
+						<key>imageID</key>
+						<string>Bringal image</string>
+						<key>languages</key>
+						<array>
+							<dict>
+								<key>name</key>
+								<string>English( Language Name)</string>
+								<key>text</key>
+								<string>Bringal word&apos;s english text</string>
+								<key>sound</key>
+								<string>Bringal word&apos;s sound in english</string>
+								<key>soundID</key>
+								<string>Bringal word&apos;s soundID in english</string>
+							</dict>
+							<dict>
+								<key>name</key>
+								<string>Punjabi</string>
+								<key>text</key>
+								<string>Bringal word&apos;s punjabi text</string>
+								<key>sound</key>
+								<string>Bringal word&apos;s sound in punjabi</string>
+								<key>soundID</key>
+								<string>Bringal word&apos;s soundID in punjabi</string>
+							</dict>
+							<dict>
+								<key>name</key>
+								<string>Tamil</string>
+								<key>text</key>
+								<string>Bringal word&apos;s tamil text</string>
+								<key>sound</key>
+								<string>Bringal word&apos;s sound in tamil</string>
+								<key>soundID</key>
+								<string>Bringal word&apos;s soundID in tamil</string>
+							</dict>
+						</array>
+						<key>childs</key>
+						<array/>
+					</dict>
+				</array>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
